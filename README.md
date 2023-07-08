@@ -1,8 +1,8 @@
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/master/img/hi.gif" width="30" alt=""> I'm Khanh Duy from Vietnam <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/master/img/vietnam_flag_.gif" width="30" alt=""> </h1>
 
 ## 👨🏻‍💻 About me, I am ...
-&nbsp;&nbsp;&nbsp;&nbsp;🎓    a student at [Sai Gon University](https://www.sgu.edu.vn/) , majoring in Information Technology with specialization in Front-end Developer
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    a ReactJS Developer
+&nbsp;&nbsp;&nbsp;&nbsp;🎓    a student at [Sai Gon University](https://www.sgu.edu.vn/) , majoring in Information Technology with specialization in Software Programming & IT Engineering
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    a Front-end Developer with efficiently using ReactJS
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    exploring new technologies and developing web solutions and quick hacks.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    enthusiast in Web Development & UI/UX Design
 
