@@ -8,7 +8,7 @@
 
 ## 🛠 Tech stack
 #### 💾&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-#### 🚀&nbsp;&nbsp;&nbsp;&nbsp; ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+#### 🚀&nbsp;&nbsp;&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 #### 💻&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 #### 📋&nbsp;&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 #### 🥅&nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
@@ -47,7 +47,12 @@
 <!--   <a href="mailto:duy270201@gmail.com" >
     <img src="https://img.shields.io/badge/phuongnt.work@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="25"  alt=""/></a> -->
   <a href="https://www.linkedin.com/in/hkduyh" >
-    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25"  alt=""/></a>
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="25"  alt=""/></a>
 </div>
 
+## 📬 Visit my personal portfolio
+<div align="center">
+  <a href="https://www.facebook.com/khduy.hh](https://personal-portfolio-peach-chi.vercel.app/#portfolio)https://personal-portfolio-peach-chi.vercel.app/" >
+    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoWidth=20&&logoColor=fff" height="25"  alt=""/></a>
+</div>
 ## :hearts: Thanks for visiting my profile
