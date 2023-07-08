@@ -1,10 +1,10 @@
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/master/img/hi.gif" width="30" alt=""> I'm Khanh Duy from Vietnam <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/master/img/vietnam_flag_.gif" width="30" alt=""> </h1>
 
 ## 👨🏻‍💻 About me, I am ...
-&nbsp;&nbsp;&nbsp;&nbsp;🎓    a student at [Sai Gon University](https://www.sgu.edu.vn/) , majoring in Information Technology with specialization in Web Development
+&nbsp;&nbsp;&nbsp;&nbsp;🎓    a student at [Sai Gon University](https://www.sgu.edu.vn/) , majoring in Information Technology with specialization in Front-end Developer
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    a ReactJS developer
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    exploring new technologies and developing web solutions and quick hacks.
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    enthusiast in Front-end development & UI/UX Design
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    enthusiast in Web Development & UI/UX Design
 
 ## 🛠 Tech stack
 #### 💾&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
