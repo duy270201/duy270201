@@ -53,6 +53,6 @@
 ## 📬 Visit my personal portfolio
 <div align="center">
   <a href="https://www.facebook.com/khduy.hh](https://personal-portfolio-peach-chi.vercel.app/#portfolio)https://personal-portfolio-peach-chi.vercel.app/" >
-    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoWidth=20&&logoColor=fff" height="25"  alt=""/></a>
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="25"  alt=""/></a>
 </div>
 ## :hearts: Thanks for visiting my profile
