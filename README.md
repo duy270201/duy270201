@@ -44,8 +44,8 @@
 <div align="center">
   <a href="https://www.facebook.com/khduy.hh" >
     <img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoWidth=20&&logoColor=fff" height="25"  alt=""/></a>
-  <a href="mailto:duy270201@gmail.com" >
-    <img src="https://img.shields.io/badge/phuongnt.work@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="25"  alt=""/></a>
+<!--   <a href="mailto:duy270201@gmail.com" >
+    <img src="https://img.shields.io/badge/phuongnt.work@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="25"  alt=""/></a> -->
   <a href="https://www.linkedin.com/in/hkduyh" >
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25"  alt=""/></a>
 </div>
