@@ -47,7 +47,7 @@
 <!--   <a href="mailto:duy270201@gmail.com" >
     <img src="https://img.shields.io/badge/phuongnt.work@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="25"  alt=""/></a> -->
   <a href="https://www.linkedin.com/in/hkduyh" >
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="25"  alt=""/></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25"  alt=""/></a>
 </div>
 
 ## 📬 Visit my personal portfolio
