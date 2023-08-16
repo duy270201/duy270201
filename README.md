@@ -1,4 +1,4 @@
-<h1 align='center' style="font-weight:bold">
+<h1 align='center' style="font-weight:900">
   HA KHANH DUY
 </h1>
 
