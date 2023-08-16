@@ -1,4 +1,4 @@
-<h1 align='center'>
+<h1 align='center' style="font-weight:bold">
   HA KHANH DUY
 </h1>
 
@@ -16,14 +16,15 @@
 
 ## 👨🏻‍💻 About me
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎓    A 4th years student at [Sai Gon University](https://www.sgu.edu.vn/), majoring in IT Engineering & Software Programming.
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    A Front-end Developer with efficiently use ReactJS.
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    A dynamic individual falling in love with exploring new technologies, developing web solutions and quick hacks.
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    An enthusiast in Web Development & UI/UX Design.
+I am...<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🎓    a 4th years student at [Sai Gon University](https://www.sgu.edu.vn/), majoring in IT Engineering & Software Programming.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    a Front-end Developer with efficiently use ReactJS.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    a dynamic individual falling in love with exploring new technologies, developing web solutions and quick hacks.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    an enthusiast in Web Development & UI/UX Design.
 
 ## ⭐ GitHub Stats
 
-<table style="width:100%;">
+<table style="width:100%">
   <tr>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khduyh&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20used%20languages" alt="" width="100%"/>
