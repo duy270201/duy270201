@@ -1,5 +1,5 @@
 <h1 align='center'>
-  <strong> HA KHANH DUY </strong>
+  <b> HA KHANH DUY </b>
 </h1>
 
 <div align='center'>
