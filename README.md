@@ -14,9 +14,8 @@
   </a>
 </div>
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 About me, I am ...
 
-I am...<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;🎓    A senior student at **Sai Gon University**, majoring in IT Engineering & Software Programming.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    A **Fresher Front-end Developer** with efficiently use ReactJS.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    A dynamic individual falling in love with exploring new technologies, developing web solutions and quick hacks.
