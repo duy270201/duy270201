@@ -30,7 +30,7 @@ I am...<br/>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khduyh&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20used%20languages" alt="" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khduyh&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activities%20on%20Github" alt="" width="100%" >
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khduyh&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activities%20on%20Github" alt="" width="75%" >
     </td>
   </tr>
 </table>
