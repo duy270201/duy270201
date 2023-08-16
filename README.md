@@ -1,5 +1,5 @@
 <h1 align='center'>
-  KHANH DUY <br />
+  KHANH DUY <br /> <br />
   <a href="mailto:duy270201@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"  alt="">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
