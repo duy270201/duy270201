@@ -27,10 +27,13 @@ I am...<br/>
 <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khduyh&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20used%20languages" alt="" width="120%"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khduyh&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20used%20languages" alt="" width="100%"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khduyh&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activities%20on%20Github" alt="" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khduyh&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activities%20on%20Github" alt="" width="100%"/>
+      <div align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </div>
     </td>
   </tr>
 </table>
@@ -53,18 +56,5 @@ I am...<br/>
 - 📖 **Basic UI Design Course**\
 📆 04/2022\
 📍 **TELOS ACADEMY** - Ho Chi Minh City
-
-
-## 🧐 Activities
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <div align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ## :hearts: Thanks for visiting my profile
