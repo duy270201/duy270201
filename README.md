@@ -5,10 +5,10 @@
 <div align='center'>
   <a href="mailto:duy270201@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"  alt="">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hkduyh" >
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25"  alt=""/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://personal-portfolio-peachh.vercel.app/" >
     <img src="https://img.shields.io/badge/Portfolio-FF1B2D?style=flat&logo=portfolio&logoColor=white" height="25"  alt=""/>
   </a>
@@ -27,8 +27,8 @@ I am...<br/>
 <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khduyh&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20used%20languages" alt="" width="100%"/>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khduyh&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activities%20on%20Github" alt="" width="100%"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khduyh&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20used%20languages" alt="" width="100%"/>
     </td>
     <td>
       <div align="center"> 
