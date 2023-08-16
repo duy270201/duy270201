@@ -16,7 +16,7 @@
 
 ## 👨🏻‍💻 About me, I am ...
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎓    A senior student at **Sai Gon University**, majoring in IT Engineering & Software Programming.
+&nbsp;&nbsp;&nbsp;&nbsp;🎓    A student at **Sai Gon University**, majoring in IT Engineering & Software Programming.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    A **Fresher Front-end Developer** with efficiently use ReactJS.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    A dynamic individual falling in love with exploring new technologies, developing web solutions and quick hacks.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    An enthusiast in Web Development & UI/UX Design.
@@ -41,7 +41,7 @@
 
 <br/>
 
-## 🛠 Tech stack
+## 🛠 Skills
 
 #### 💾&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 #### 🚀&nbsp;&nbsp;&nbsp;&nbsp;![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;&nbsp;&nbsp;![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)&nbsp;&nbsp;&nbsp;![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)&nbsp;&nbsp;&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp;&nbsp;&nbsp;![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
