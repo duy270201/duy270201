@@ -61,7 +61,7 @@ I am...<br/>
 
 - 📖 **Basic UI Design Course**\
 📆 04/2022\
-📍 **TELOS ACADEMY** - Ho Chi Minh City
+📍 **TELOS Academy** - Ho Chi Minh City
 
 <br/>
 
