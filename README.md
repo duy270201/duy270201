@@ -55,7 +55,7 @@
 
 ## 🎓 Education
 
-- 📖 **IT Engineering & Software Programmingr**\
+- 📖 **IT Engineering & Software Programming**\
 📆 2019 - 2024\
 📍 **Sai Gon University** - Ho Chi Minh City
 
