@@ -18,8 +18,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎓    A student at **Sai Gon University**, majoring in IT Engineering & Software Programming.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    A **Fresher Front-end Developer** with efficiently use ReactJS.
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    A dynamic individual falling in love with exploring new technologies, developing web solutions and quick hacks.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    An enthusiast in Web Development & UI/UX Design.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    A dynamic individual falling in love with exploring new technologies, developing web solutions and quick hacks.
+
 
 <br/>
 
