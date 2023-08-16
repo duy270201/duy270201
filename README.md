@@ -65,7 +65,7 @@ I am...<br/>
 
 <br/>
 
-### :hearts: Thanks for visiting my profile
+<div align='center'>:hearts: Thanks for visiting my profile</div>
 
 
 
