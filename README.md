@@ -2,15 +2,17 @@
   HA KHANH DUY
 </h1>
 
-<a href="mailto:duy270201@gmail.com" >
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"  alt="">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hkduyh" >
-  <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25"  alt=""/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://personal-portfolio-peachh.vercel.app/" >
-  <img src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the%20badge&logo=portfolio&logoColor=white" height="25"  alt=""/>
-</a>
+<div align='center'>
+  <a href="mailto:duy270201@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"  alt="">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hkduyh" >
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25"  alt=""/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://personal-portfolio-peachh.vercel.app/" >
+    <img src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the%20badge&logo=portfolio&logoColor=white" height="25"  alt=""/>
+  </a>
+</div>
 
 ## 👨🏻‍💻 About me
 
