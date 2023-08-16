@@ -17,7 +17,7 @@
 ## 👨🏻‍💻 About me
 
 I am...<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;🎓    a senior student at [Sai Gon University](https://www.sgu.edu.vn/), majoring in IT Engineering & Software Programming.
+&nbsp;&nbsp;&nbsp;&nbsp;🎓    a senior student at **Sai Gon University**, majoring in IT Engineering & Software Programming.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    a Front-end Developer with efficiently use ReactJS.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    a dynamic individual falling in love with exploring new technologies, developing web solutions and quick hacks.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    an enthusiast in Web Development & UI/UX Design.
