@@ -65,7 +65,7 @@ I am...<br/>
 
 <br/>
 
-<div align='center'>:hearts: Thanks for visiting my profile</div>
+<h2 align='center'>:hearts: Thanks for visiting my profile</h2>
 
 
 
